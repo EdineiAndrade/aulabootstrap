@@ -1,0 +1,47 @@
+body{
+    font: 20 px Arial, san-serif;
+}
+
+.navbar{
+    padding-left: 120px;
+    background-color: rgba(66, 211, 66, 0.5);
+    color:black;
+    font-weight: bold;
+    font-size: 30px;
+
+   
+}
+a:hover {
+    font-size:110%;
+}
+.quem-somos{
+    background-color: rgb(148, 148, 224);
+    color:white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 15px;
+}
+
+.parceiros{
+    background-color:rgb(147, 184, 182);
+}
+
+.bg-footer{
+    background-color:black;
+    color:white;
+    font-size: 20px;
+}
+.contatos{
+    text-decoration: none;
+	font-size: 15px;
+    font-weight: bold;
+    display:column;
+    
+}
+.contatos a:hover {
+    color:rgb(0, 255, 21);
+    text-decoration: none;
+    font-size:120%;
+}
